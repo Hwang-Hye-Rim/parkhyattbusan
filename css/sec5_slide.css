@@ -1,0 +1,36 @@
+.sec5_slide .swiper {
+    width: 100%;
+    height: 280px;
+}
+
+.sec5_slide .swiper-slide {
+    display: flex;
+}
+
+.sec5_slide .swiper-slide {
+    width: 230px;
+}
+
+.sec5_slide .con_img>img{
+    height: 230px;
+}
+
+.sec5_slide .img_text{
+    height: 230px;
+    display: flex;
+    background-color: rgba(40, 40, 40, 0.3);
+    padding: 20px;
+    text-align: start;
+    justify-content: flex-end;
+    align-items: flex-start;
+    font-size: 21px;
+    line-height: 23px;
+}
+
+.sec5_slide .img_text>h5{
+    height: 46px;
+}
+
+.swiper-pagination span{
+    background-color: #282828;
+}

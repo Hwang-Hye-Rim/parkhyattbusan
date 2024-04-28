@@ -1,0 +1,79 @@
+.sec2_slide .swiper {
+    height: 430px;
+}
+
+.sec2_slide .swiper-slide {
+    font-size: 18px;
+    display: flex;
+}
+
+.sec2_slide .swiper-slide {
+    width: 268px;
+}
+
+.sec2_slide .img_part{
+    width: 268px;
+    height: 160px;
+}
+
+.sec2_slide .text_part{
+    width: 268px;
+}
+
+.sec2_slide .con h5 {
+    font-family: "Crimson Text";
+    font-size: 21px;
+    font-weight: 600;
+    margin: 15px 0 10px;
+}
+
+.sec2_slide .con p {
+    height: 63px;
+    font-size: 13px;
+    line-height: 22px;
+    letter-spacing: -0.5px;
+    color: #666666;
+}
+
+.sec2_slide .con ul {
+    padding: 15px 0;
+    border-bottom: 1px solid #dcdcdc;
+    font-size: 13px;
+    font-weight: 500;
+}
+
+.sec2_slide .reserve {
+    margin-bottom: 0px;
+}
+
+.sec2_slide .con li > span {
+    font-weight: 400;
+    color: #828282;
+}
+
+.sec2_slide .price {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 5px;
+}
+
+.sec2_slide .room,
+.sec2_slide .lowest > span {
+    font-size: 11px;
+}
+
+.sec2_slide .room {
+    font-weight: 500;
+    transform: translateY(-2px);
+}
+
+.sec2_slide .lowest > span:first-child {
+    margin-right: 3px;
+}
+
+.sec2_slide .lowest > span:last-child {
+    margin-left: 1px;
+}
